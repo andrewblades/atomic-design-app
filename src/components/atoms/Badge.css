@@ -1,0 +1,8 @@
+.atom-badge {
+    display: inline-block;
+    padding: 4px 8px;
+    font-size: 12px;
+    color: white;
+    background-color: #7300ff;
+    border-radius: 4px;
+}

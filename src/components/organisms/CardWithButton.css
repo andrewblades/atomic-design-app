@@ -1,0 +1,19 @@
+.organism-card-with-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.organism-card-with-button p {
+    margin-bottom: 20px;
+}
+
+.star-icon {
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: #ffc107;
+}
+
+.atom-badge {
+    margin-bottom: 20px;
+}
